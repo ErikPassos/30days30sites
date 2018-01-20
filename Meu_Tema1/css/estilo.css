@@ -1,0 +1,109 @@
+/* 
+    Created on : 19/01/2018, 21:26:37
+    Author     : erikf_000
+*/
+
+
+.container-fluid{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.margin{
+    margin-bottom: 45px;
+    margin-top: 45px;
+}
+
+.fontzero{font-size: 0;}
+.h3{
+     font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.bg-1{
+    background-color: #1abc9c;
+    color:#ffffff;
+}
+
+.bg-1 h3{
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin-bottom: 0;
+}
+
+
+img{
+    width: 15%;
+}
+
+.bg-2{
+    background-color: #474e5d;
+    color: #ffffff;
+    
+}
+
+
+.bg-2 h3{
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.bg-3{
+    background-color: #ffffff;
+    color: #555555;
+}
+
+.bg-3 h3{
+    font-family: 'Montserrat Alternates', sans-serif;
+    margin-bottom: 5%;
+}
+
+#map{
+    height: 590px;
+    width: 150%;
+}
+
+.ssa{
+    height: 400px;
+    width: 200%;
+}
+
+.ssa_p p{
+    margin-top: auto;
+}
+
+.fa{
+    padding: 20px;
+}
+
+/*Menu de Navegação*/
+ .navbar {
+      font-family: 'Montserrat Alternates', sans-serif;
+      font-weight: bold;
+     padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+  
+  
+  ul li a {
+      padding: 20px;
+      font-size: 1.45em;
+      color: black;
+      
+  }
+  
+  p{
+      font-family: 'Montserrat Alternates', sans-serif;
+  }
+  
+  
+  
+  .bg-4{    
+      background-color: #2f2f2f; /* Black Gray */
+      color: #fff;
+  }
